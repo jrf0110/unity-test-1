@@ -23,6 +23,8 @@ public class PlayerCode : MonoBehaviour {
 
 	//Life Stuff
     public bool isActive;
+
+	public int asdf = 1;
 	
     // Use this for initialization
     void Start()
